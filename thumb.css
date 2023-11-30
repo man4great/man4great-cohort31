@@ -1,0 +1,40 @@
+
+.case {
+    text-align: center;
+    background-color: white;
+
+}
+
+.case h1 {
+
+    color: black;
+    font-size: 110px;
+    margin-top: 15%;
+    margin-bottom: 3px;
+}
+
+  .bad{
+
+     display: flex;
+     justify-content: center; 
+     gap: 6px;
+     font-size: 25px;
+  }
+
+
+.icon { 
+    color: red;
+
+}
+.case p{
+    font-size: 12px;
+    
+}
+   
+.case button {
+
+    background-color: purple;
+    color: beige;
+    border-radius: 4px;
+    padding: 5px 5px;
+}
